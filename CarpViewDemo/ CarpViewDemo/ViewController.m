@@ -9,7 +9,7 @@
 #import "ViewController.h"
 #import "CarpView.h"
 
-@interface ViewController ()
+@interface ViewController ()shuaihaolongge
 @property (weak, nonatomic) IBOutlet CarpView *carpView;
 @property (nonatomic, strong) CarpView *carpView2;
 
